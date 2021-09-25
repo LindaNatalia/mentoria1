@@ -3,7 +3,7 @@
 ## Mi nombre es Linda Rodriguez
 buenos dias compañeros esta es una prueba
 
-### muchas gracias profe Andres Betancur
+### muchas gracias 
 <!-- esto
  es un
   comentario
